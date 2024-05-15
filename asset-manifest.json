@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-frontend-dev-portfolio/static/css/main.62763dfb.css",
-    "main.js": "/react-frontend-dev-portfolio/static/js/main.1402110f.js",
-    "index.html": "/react-frontend-dev-portfolio/index.html",
-    "main.62763dfb.css.map": "/react-frontend-dev-portfolio/static/css/main.62763dfb.css.map",
-    "main.1402110f.js.map": "/react-frontend-dev-portfolio/static/js/main.1402110f.js.map"
+    "main.css": "/antoiner.github.io/static/css/main.62763dfb.css",
+    "main.js": "/antoiner.github.io/static/js/main.63678623.js",
+    "index.html": "/antoiner.github.io/index.html",
+    "main.62763dfb.css.map": "/antoiner.github.io/static/css/main.62763dfb.css.map",
+    "main.63678623.js.map": "/antoiner.github.io/static/js/main.63678623.js.map"
   },
   "entrypoints": [
     "static/css/main.62763dfb.css",
-    "static/js/main.1402110f.js"
+    "static/js/main.63678623.js"
   ]
 }
