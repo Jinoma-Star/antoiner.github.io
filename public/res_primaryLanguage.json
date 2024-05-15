@@ -15,9 +15,9 @@
         "startDate": "2023-2024",
         "description": "This project involved implementing the front-end of an application using React and React Router to create a modern and responsive user experience. The main difficulties included effectively managing routing between application pages, integrating provided mockups with simulated data from a JSON file, and using SASS for CSS management. The initial setup with Create React App and running JavaScript code with Node.js also presented significant technical challenges.",
         "images": [
-          "images/portfolio/kasa/Kasa01.jpg",
-          "images/portfolio/kasa/Kasa02.jpg",
-          "images/portfolio/kasa/Kasa03.jpg"
+          "images/portfolio/kasa/Kasa01.JPG",
+          "images/portfolio/kasa/Kasa02.JPG",
+          "images/portfolio/kasa/Kasa03.JPG"
         ],
         "url": "https://github.com/Jinoma-Star/projet_5_React",
         "technologies": [
@@ -40,10 +40,10 @@
         "startDate": "2023-2024",
         "description": "This project involved developing the back-end of a book rating website using Express and MongoDB. The main challenges were securely managing data models for books and ratings, implementing a secure authentication system, and handling the uploading and optimization of images. Adhering to Green Code best practices and adopting the MVC architecture to structure the application also posed significant design and organization challenges.",
         "images": [
-          "images/portfolio/monvieuxgrimoire/monvieuxgrimoire01.jpg",
-          "images/portfolio/monvieuxgrimoire/monvieuxgrimoire02.jpg",
-          "images/portfolio/monvieuxgrimoire/monvieuxgrimoire03.jpg",
-          "images/portfolio/monvieuxgrimoire/monvieuxgrimoire04.jpg"
+          "images/portfolio/monvieuxgrimoire/monvieuxgrimoire01.JPG",
+          "images/portfolio/monvieuxgrimoire/monvieuxgrimoire02.JPG",
+          "images/portfolio/monvieuxgrimoire/monvieuxgrimoire03.JPG",
+          "images/portfolio/monvieuxgrimoire/monvieuxgrimoire04.JPG"
         ],
         "url": "https://github.com/Jinoma-Star/Projet-Backend",
         "technologies": [
@@ -66,8 +66,8 @@
         "startDate": "2023-2024",
         "description": "This project involved optimizing a site's SEO and accessibility using tools like Lighthouse and Wave to identify and resolve performance issues. The main difficulties included precisely identifying loading issues, improving the speed and structure of the code, and implementing the recommendations. Creating a report detailing the impacts of the modifications also presented a challenge in clearly illustrating the improvements in terms of SEO and accessibility.",
         "images": [
-          "images/portfolio/nina/Nina01.jpg",
-          "images/portfolio/nina/Nina02.jpg"
+          "images/portfolio/nina/Nina01.JPG",
+          "images/portfolio/nina/Nina02.JPG"
         ],
         "url": "https://github.com/Jinoma-Star/jinoma-star-P4.github.io",
         "technologies": [
